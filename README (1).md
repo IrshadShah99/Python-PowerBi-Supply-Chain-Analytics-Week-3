@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=900&lines=Supply+Chain+Analytics+with+Python+%26+Pandas;Data+Cleaning+%7C+EDA+%7C+Business+Insights;Shipment+Performance+%26+Delivery+Trend+Analysis;Vendor+Efficiency+%26+Logistics+Analytics;Interactive+Power+BI+Dashboard;Logic+Stack+Data+Analyst+Internship+-+Week+3" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=900&lines=Supply+Chain+Analytics+with+Python+%26+Pandas;Data+Cleaning+%7C+EDA+%7C+Business+Insights;Shipment+Performance+%26+Delivery+Trend+Analysis;Vendor+Efficiency+%26+Logistics+Analytics;Interactive+Power+BI+Dashboard;YuvaIntern+Logistics+Data+Analyst+Internship+-+Week+3" />
 
 <br/>
 
@@ -16,8 +16,8 @@
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
 
-[![Internship](https://img.shields.io/badge/Internship-Logic%20Stack-2196F3?style=flat-square)](#)
-[![Role](https://img.shields.io/badge/Role-Data%20Analyst%20Intern-1565C0?style=flat-square)](#)
+[![Internship](https://img.shields.io/badge/Internship-Yuva%20Intern-2196F3?style=flat-square)](#)
+[![Role](https://img.shields.io/badge/Role-Logistics%20Data%20Analyst%20Intern-1565C0?style=flat-square)](#)
 [![Week](https://img.shields.io/badge/Week-3%20of%20Internship-0D47A1?style=flat-square)](#)
 [![Task](https://img.shields.io/badge/Task-03-F2C811?style=flat-square)](#)
 [![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)](#)
@@ -31,11 +31,11 @@
 
 ## 📌 Project Overview
 
-This repository contains my **Week 3 Task** for the **Data Analyst Internship at Logic Stack**, centred on **Supply Chain Analytics** using Python and Power BI.
+This repository contains my **Week 3 Task** for the **Logistics Data Analyst Internship at YuvaIntern**, centred on **Supply Chain Analytics** using Python and Power BI.
 
 The project involves working with a real-world SCMS (Supply Chain Management System) dataset of **10,324 shipments** across multiple countries, vendors and product groups. The full pipeline — from raw messy data through to an interactive Power BI dashboard — is implemented end to end, building directly on the Excel and Power BI foundations from Weeks 1 and 2.
 
-> 💼 **Internship:** Logic Stack — Data Analysis Internship (Jul 2026)
+> 💼 **Internship:** YuvaIntern — Logistics Data Analysis Internship (Aug 2026)
 
 > 🧩 **Task:** Week 3 — Supply Chain Analytics Challenge
 
@@ -50,10 +50,10 @@ The project involves working with a real-world SCMS (Supply Chain Management Sys
 
 | Detail | Description |
 |---|---|
-| 🏢 **Company** | Logic Stack |
-| 👨‍💻 **Role** | Data Analyst Intern |
+| 🏢 **Company** | YuvaIntern |
+| 👨‍💻 **Role** | Logistics Data Analyst Intern |
 | 📅 **Task** |     Task 03 |
-| 🔗 **Builds On** | [Week 1 — Excel Analysis](https://github.com/YasirAwan4831/week-1-retail-sales-excel-analysis) · [Week 2 — Excel + Power BI](https://github.com/YasirAwan4831/week-2-excel-powerbi-sales-dashboard) |
+| 🔗 **Builds On** | [Week 1 — Excel Analysis](https://github.com/IrshadShah99/Retail-Sales-Analysis-Excel-Sheet-Week-1) · [Week 2 — Excel + Power BI](https://github.com/IrshadShah99/Sales-Dashboard-Excel-PowerBi-Week-2-) |
 | 💻 **Project Type** | Python EDA + Power BI Dashboard |
 | ⏱️ **Duration** | 7 Days |
 | 🧠 **Skills Learned** | Python, Pandas, EDA, Data Cleaning, Power BI, DAX, Dashboard Design |
@@ -151,7 +151,6 @@ week-3-python-powerbi-supply-chain-analytics/
 │   └── final-dashboard.jpeg
 │
 ├── .gitignore
-├── LICENSE
 └── README.md
 ```
 ---
@@ -199,13 +198,13 @@ Business Insights
 
 Clone the repository
 ```
-git clone https://github.com/YasirAwan4831/week-3-python-powerbi-supply-chain-analytics
+git clone https://github.com/IrshadShah99/Python-PowerBi-Supply-Chain-Analytics-Week-3
 ```
 
 Go to project
 
 ```
-cd week-3-python-powerbi-supply-chain-analytics
+cd Python-PowerBi-Supply-Chain-Analytics-Week-3
 ```
 
 Install libraries
@@ -511,43 +510,15 @@ The most significant challenge in this project was **setting up and configuring 
 
 | Week | Repository | Focus Area |
 |---|---|---|
-| **Week 1** | [week-1-retail-sales-excel-analysis](https://github.com/YasirAwan4831/week-1-retail-sales-excel-analysis) | Excel · Data Cleaning · Formulas · Charts |
-| **Week 2** | [week-2-excel-powerbi-sales-dashboard](https://github.com/YasirAwan4831/week-2-excel-powerbi-sales-dashboard) | Pivot Tables · KPIs · Power BI Dashboard |
-| **Week 3** | [week-3-python-powerbi-supply-chain-analytics` *(current)* ](https://github.com/YasirAwan4831/week-3-python-powerbi-supply-chain-analytics) | Python · EDA · Supply Chain Analytics · Power BI |
+| **Week 1** | [week-1-retail-sales-excel-analysis](https://github.com/IrshadShah99/Retail-Sales-Analysis-Excel-Sheet-Week-1) | Excel · Data Cleaning · Formulas · Charts |
+| **Week 2** | [week-2-excel-powerbi-sales-dashboard](https://github.com/IrshadShah99/Sales-Dashboard-Excel-PowerBi-Week-2-) | Pivot Tables · KPIs · Power BI Dashboard |
+| **Week 3** | [week-3-python-powerbi-supply-chain-analytics` *(current)* ](https://github.com/IrshadShah99/Python-PowerBi-Supply-Chain-Analytics-Week-3) | Python · EDA · Supply Chain Analytics · Power BI |
 
 ---
 
 ## 🙏 Acknowledgements
 
-Special thanks to Logic Stack for providing this internship opportunity and real-world datasets that helped strengthen my practical data analytics skills.
-
----
-
-## 👨‍💻 About the Author
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Muhammad+Yasir;Full+Stack+Web+Developer;Data+Analyst;AI+%26+Automation+Enthusiast;React+%7C+Node.js+%7C+MongoDB" />
-
-<br/>
-
-**[Muhammad Yasir](https://yasirawan4831.github.io/futuristic-links-dashboard/)** is a **Full Stack Web Developer, Data Analyst and AI Automation Enthusiast** passionate about building scalable web applications, data-driven solutions, automation systems and modern software products with clean architecture and outstanding user experience.
-
-<br/>
-
-### 🌐 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YasirAwan4831)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasirawan4831)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yasirawaninfo.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:my3154831409@gmail.com)
-
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=YasirAwan4831&style=for-the-badge&color=d4af37&label=PROFILE+VIEWS)
-
-<br/>
+Special thanks to YuvaIntern for providing this internship opportunity and real-world datasets that helped strengthen my practical data analytics skills.
 
 ---
 
@@ -563,11 +534,6 @@ If you found this project useful or inspiring, consider giving it a **⭐ Star**
 <br/>
 
 ---
-
-<p align="center">
-Crafted with precision and passion by <strong><a href="https://yasirawaninfo.vercel.app/" target="_blank">Muhammad Yasir</a></strong><br/>
-Full Stack Web Developer • Data Analyst • AI & Automation Enthusiast • Open Source Contributor
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BBDEFB,25:64B5F6,50:2196F3,75:1976D2,100:0D47A1&height=180&section=footer&text=Thank%20You%20for%20Visiting&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
 
